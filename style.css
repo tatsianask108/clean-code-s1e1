@@ -36,9 +36,9 @@
   display: inline-block;
   flex-grow: 1;
 }
-.article__wrapper {
+/* .article__wrapper {
   display: flex;
-}
+} */
 
 .list {
   margin: 0;
@@ -51,7 +51,7 @@
 }
 /* оставлен селектор тегов, т.к.это сброс дефолтных стилей, в таком случае селектор тегов допустим*/
 input,
-button{
+button {
   outline: none;
 }
 .btn {
@@ -95,10 +95,10 @@ button{
 }
 
 /* New Task */
-.article__title--new-task {
+/* .article__title--new-task {
   display: block;
   margin: 0 0 20px;
-}
+} */
 .list__item-new-task {
   width: 56%;
   display: inline-block;
